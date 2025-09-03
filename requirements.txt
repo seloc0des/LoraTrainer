@@ -1,0 +1,4 @@
+Pillow>=10.0.0
+rich>=13.7.0
+tqdm>=4.66.0
+clip-interrogator>=0.6.0
